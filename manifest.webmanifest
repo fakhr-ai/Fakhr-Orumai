@@ -1,0 +1,11 @@
+{
+  "name": "دستیار فخر اروم",
+  "short_name": "فخر اروم",
+  "description": "دستیار دبیرستان غیردولتی فخر اروم",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#0b2345",
+  "icons": [{"src":"./icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
